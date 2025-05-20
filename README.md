@@ -26,7 +26,7 @@ Each Order is linked to one Customer and one Coffee.
 To get started with this project, follow these steps:
 
 Clone the Repository: 
-git clone []
+git clone [https://github.com/ian441/coffee-shop-challenge]
 cd phase-3-week-2-code-challenge
 Set Up a Virtual Environment
 
